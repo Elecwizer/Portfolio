@@ -3,7 +3,6 @@ import HomePage from './components/HomePage';
 import Projects from './components/Projects';
 import Academics from './components/Academics';
 import About from './components/About';
-import './App.css';
 //end of imports
 
 function App() {
