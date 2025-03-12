@@ -51,7 +51,7 @@ function Projects() {
                     interactivity.
                   </p>
                   <a
-                    href="https://little-lemon-capstone-elecwizer-elecwizers-projects.vercel.app/"
+                    href="https://little-lemon-capstone-elecwizer-elecwizers-projects.vercel.app/?_vercel_share=d2NAKWz3YMn6LOa8gTfYGy1olvJEdDaY"
                     className="btn btn-primary"
                   >
                     Try it out
