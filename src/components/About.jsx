@@ -14,14 +14,6 @@ function About(){
               development. I am also pursuing a Computer Science degree at KFUPM.
             </p>
           </main>
-
-          <footer className="text-center py-3">
-            <p>
-              Contact me at:{" "}
-              <a href="mailto:elecwizer@gmail.com">elecwizer@gmail.com</a> or my
-              phone number +966550060783
-            </p>
-          </footer>
         </div>
       );
     };
